@@ -33,7 +33,7 @@ Generate invoices, manage outstanding balances, and send payment reminders to cu
 3. Leverage data analytics to identify sales trends, top-selling products, and customer preferences.
 
 ## Technology Used
-1. The Sales Management System is built using the following technologies:
+#### The Sales Management System is built using the following technologies:
 
 Programming Language: C#
 ##### Framework: .NET Framework (WinForms)
