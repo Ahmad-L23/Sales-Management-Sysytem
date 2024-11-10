@@ -36,8 +36,8 @@ Generate invoices, manage outstanding balances, and send payment reminders to cu
 1. The Sales Management System is built using the following technologies:
 
 Programming Language: C#
-Framework: .NET Framework (WinForms)
-Database: SQL Server
-Data Access: Entity Framework
-User Interface: WinForms
-Integrated Development Environment: Visual Studio
+##### Framework: .NET Framework (WinForms)
+##### Database: SQL Server
+##### Data Access: Entity Framework
+##### User Interface: WinForms
+##### Integrated Development Environment: Visual Studio
